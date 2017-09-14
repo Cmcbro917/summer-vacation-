@@ -1,0 +1,42 @@
+h1{
+  text-align: center;
+  font-size: 90px;
+  font-family: 'Quicksand', sans-serif;
+  color: #558de8
+}
+
+p1{
+  font-size: 30px;
+  font-family: 'Hind', sans-serif;
+
+
+}
+
+h2{
+  font-size: 25px;
+   color: #558de8
+
+}
+
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: green;
+}
+
+
+a:hover {
+    color: hotpink;
+}
+
+a:active {
+    color: blue;
+}
+
+body{
+    background-color: #f1f954;
+
+
+}
